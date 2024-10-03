@@ -1,0 +1,15 @@
+*{
+  background-color: bisque;
+}
+.title{
+  font-size: 80px;
+  color: rgb(255, 198, 123);
+  text-align: center;
+  font-style: oblique;
+}
+
+.container{
+  font-size: 25px;
+  
+}
+

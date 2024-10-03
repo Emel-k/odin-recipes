@@ -1,0 +1,16 @@
+*{
+  background-color: burlywood;
+  color: blanchedalmond;
+}
+
+.title{
+  font-size: 50px;
+  text-align: center;
+}
+
+.one,
+.ingredient,
+.how{
+  text-align: center;
+  font-size: 30px;
+}
