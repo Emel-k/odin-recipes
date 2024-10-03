@@ -1,5 +1,7 @@
 *{
   background-color: bisque;
+  margin: 0;
+  padding: 0;
 }
 .title{
   font-size: 80px;
@@ -10,6 +12,25 @@
 
 .container{
   font-size: 25px;
-  
+  text-align: center;
+}
+
+.lasagna,
+.burger,
+.pasta{
+  display: inline-block;
+  margin: 20px;
+  padding: 15px;
+
+}
+
+.one {
+  padding: 20px;
+}
+
+
+img{
+display: block;
+margin: 0 auto;
 }
 
